@@ -1,0 +1,28 @@
+body {
+    margin: 0px;
+}
+
+main {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+nav {
+    background-color: #071231;
+}
+
+nav div {
+    display: flex;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: #071231;
+}
+
+nav a:hover {
+    color: black;
+    background-color: #AFC0D4;
+}
